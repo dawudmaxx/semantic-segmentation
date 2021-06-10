@@ -1,0 +1,1 @@
+docker build .. -t semseg-tao-2020:main
